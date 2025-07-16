@@ -1,0 +1,11 @@
+gov.br
+acesso.gov.br
+sso.acesso.gov.br
+receita.fazenda.gov.br
+e-cac.receita.fazenda.gov.br
+conectividade.caixa.gov.br
+esocial.gov.br
+sefaz.rs.gov.br
+sefaz.sp.gov.br
+sefaz.go.gov.br
+cadprev.dataprev.gov.br
