@@ -9,3 +9,4 @@ sefaz.rs.gov.br
 sefaz.sp.gov.br
 sefaz.go.gov.br
 cadprev.dataprev.gov.br
+https://cav.receita.fazenda.gov.br/
